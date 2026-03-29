@@ -1,10 +1,8 @@
-## 👋 Sobre mim
+## 🧑‍💻 Sobre mim
 
-Olá! Sou um Desenvolvedor Full-Stack Júnior 🚀
+Sou um Desenvolvedor Full-Stack Júnior com interesse em desenvolvimento de aplicações web e aprendizado contínuo de novas tecnologias. 
 
-💻 Tenho interesse em desenvolver aplicações web e estou sempre aprendendo novas tecnologias.  
-🌱 Atualmente estou aprimorando minhas habilidades tanto no front-end quanto no back-end.  
-⚡ Gosto de resolver problemas e transformar ideias em projetos reais.  
+Atualmente, venho aprimorando minhas habilidades tanto no front-end quanto no back-end, buscando construir soluções eficientes, organizadas e escaláveis. Tenho foco em evolução constante e em aplicar boas práticas de desenvolvimento no dia a dia.
 
 ---
 
