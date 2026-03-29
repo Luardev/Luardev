@@ -1,6 +1,12 @@
-# 💫 About Me:
-💡 I'm just starting my journey in development —<br>but I promise() you one thing:<br>I'll become a great developer one day.<br><br>“Big dreams start with small commits.” 💻✨
+## 👋 Sobre mim
 
+Olá! Sou um Desenvolvedor Full-Stack Júnior 🚀
+
+💻 Tenho interesse em desenvolver aplicações web e estou sempre aprendendo novas tecnologias.  
+🌱 Atualmente estou aprimorando minhas habilidades tanto no front-end quanto no back-end.  
+⚡ Gosto de resolver problemas e transformar ideias em projetos reais.  
+
+---
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/raul_batlle?igsh=OWRpaHJwNWF1cjVx&utm_source=qr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/raul-b-dev) 
